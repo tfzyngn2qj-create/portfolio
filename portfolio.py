@@ -87,6 +87,7 @@ A short probability lesson explaining why a positive medical test doesn't always
 
 st.divider()
 
+
 st.header("About Me")
 
 st.markdown("""
@@ -112,4 +113,4 @@ with col2:
     st.link_button("LinkedIn", "www.linkedin.com/in/macrmurray")
 
 with col3:
-    st.link_button("Resume", "https://1drv.ms/w/c/23DBFDE56B185954/IQBHIPzdIYXBQZPOBjYff20ZAcHS7kOKRXUWYLD20m2S1FU")
+    st.link_button("Resume", "https://1drv.ms/w/c/23DBFDE56B185954/IQDFpv8u6RmhTYFH_HgdVuTwAc7J6PWBuB7UX7NlWxNaevM")
