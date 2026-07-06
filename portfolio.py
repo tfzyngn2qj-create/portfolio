@@ -96,7 +96,7 @@ and am pursuing graduate study in Data Science and AI at the University of Color
 My background combines mathematics, teaching, data science, and visual communication. I enjoy designing curriculums and 
 lessons that make abstract concepts feel concrete, playful, and discoverable.
             
-In my free time I enjoy puzzles, baking, and exploring the outdoors. Ilove all things gymnastics, hiking, biking, skiing, and playing fetch with my dog, Rory.
+In my free time I enjoy puzzles, baking, and exploring the outdoors. I love all things gymnastics, hiking, biking, skiing, and playing fetch with my dog, Rory.
 """)
 
 st.divider()
