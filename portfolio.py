@@ -10,7 +10,7 @@ st.title("Mackenzie Murray")
 st.subheader("Mathematics Learning Portfolio")
 
 st.markdown("""
-I design engaging and interactive math lessons that help learners build intuition through puzzles,
+I am passionate about teaching math using engaging and interactive lessons that help learners build intuition through puzzles,
 visual exploration, and discovery.
 
 My goal is to help students discover mathematical ideas before memorizing formal definitions.
@@ -44,7 +44,7 @@ can act as instruction cards for transforming shapes.
 """)
 
     st.markdown("""
-**Learning goals:** introducation to matrix transformations, coordinate geometry, matrix multiplication, order of operations.
+**Learning goals:** introduction to matrix transformations, coordinate geometry, matrix multiplication, order of operations.
 """)
 
     st.link_button("Launch Lesson", "https://discovering-matrices-macmurray.streamlit.app/")
@@ -52,7 +52,7 @@ can act as instruction cards for transforming shapes.
 
 st.divider()
 
-st.header("Learning Design Philosophy")
+st.header("Learning Philosophy")
 
 col1, col2 = st.columns(2)
 
@@ -96,7 +96,7 @@ and am pursuing graduate study in Data Science and AI at the University of Color
 My background combines mathematics, teaching, data science, and visual communication. I enjoy designing curriculums and 
 lessons that make abstract concepts feel concrete, playful, and discoverable.
             
-In my free time I enjoy puzzles, baking, and exploring the outdoors. I love all things gymnastics, hiking, biking, skiing, and playing fetch with my dog, Rory.
+In my free time I enjoy puzzles, baking, and exploring the outdoors. I love all things gymnastics, biking, skiing, and playing fetch with my dog, Rory.
 """)
 
 st.divider()
