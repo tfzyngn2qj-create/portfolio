@@ -73,7 +73,7 @@ with col2:
 with col3:
     st.markdown("## 🟨 The Positive Test Paradox")
     st.markdown("""
-A visual probability lesson explaining why a positive medical test doesn't always mean you're likely to have the condition.
+A short probability lesson explaining why a positive medical test doesn't always mean you're likely to have the condition.
 """)
 
     st.markdown("""
